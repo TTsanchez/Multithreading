@@ -1,0 +1,32 @@
+C:\Users\artem\OneDrive\Рабочий стол\учёба\Операционные системы\lr2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\artem\OneDrive\Рабочий стол\учёба\Операционные системы\lr2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\artem\OneDrive\Рабочий стол\учёба\Операционные системы\lr2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\artem\OneDrive\Рабочий стол\учёба\Операционные системы\lr2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\artem\OneDrive\Рабочий стол\учёба\Операционные системы\lr2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\artem\OneDrive\Рабочий стол\учёба\Операционные системы\lr2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\artem\OneDrive\Рабочий стол\учёба\Операционные системы\lr2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\artem\OneDrive\Рабочий стол\учёба\Операционные системы\lr2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\artem\OneDrive\Рабочий стол\учёба\Операционные системы\lr2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\artem\OneDrive\Рабочий стол\учёба\Операционные системы\lr2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\artem\OneDrive\Рабочий стол\учёба\Операционные системы\lr2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Shura\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Shura\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Shura\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Shura\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Shura\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Shura\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Shura\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Shura\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Shura\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Shura\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Учёба\5 семестр\Операционные системы\lab2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Учёба\5 семестр\Операционные системы\lab2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Учёба\5 семестр\Операционные системы\lab2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Учёба\5 семестр\Операционные системы\lab2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Учёба\5 семестр\Операционные системы\lab2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\Учёба\5 семестр\Операционные системы\lab2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form.resources
+D:\Учёба\5 семестр\Операционные системы\lab2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Учёба\5 семестр\Операционные системы\lab2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Учёба\5 семестр\Операционные системы\lab2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Учёба\5 семестр\Операционные системы\lab2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Учёба\5 семестр\Операционные системы\lab2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
